@@ -1,0 +1,74 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Perna1T", "bone": "root", "attachment": "Perna1T" },
+	{ "name": "Perna2T", "bone": "root", "attachment": "Perna2T" },
+	{ "name": "PeT", "bone": "root", "attachment": "PeT" },
+	{ "name": "Braco1T", "bone": "root", "attachment": "Braco1T" },
+	{ "name": "Braco2T", "bone": "root", "attachment": "Braco2T" },
+	{ "name": "MaoT", "bone": "root", "attachment": "MaoT" },
+	{ "name": "Tronco", "bone": "root", "attachment": "Tronco" },
+	{ "name": "Pescoco", "bone": "root", "attachment": "Pescoco" },
+	{ "name": "Cabeça", "bone": "root", "attachment": "Cabeça" },
+	{ "name": "PeF", "bone": "root", "attachment": "PeF" },
+	{ "name": "Perna2F", "bone": "root", "attachment": "Perna2F" },
+	{ "name": "Perna1F", "bone": "root", "attachment": "Perna1F" },
+	{ "name": "MaoF", "bone": "root", "attachment": "MaoF" },
+	{ "name": "Braco2F", "bone": "root", "attachment": "Braco2F" },
+	{ "name": "Braco1F", "bone": "root", "attachment": "Braco1F" }
+],
+"skins": {
+	"default": {
+	}
+	"Menino": {
+		"Perna1T": {
+			"Perna1T": { "name": "Menino/Perna1T", "x": 189.5, "y": -312, "width": 51, "height": 116 }
+		},
+		"Perna2T": {
+			"Perna2T": { "name": "Menino/Perna2T", "x": 188, "y": -387.5, "width": 38, "height": 105 }
+		},
+		"PeT": {
+			"PeT": { "name": "Menino/PeT", "x": 208, "y": -433, "width": 62, "height": 44 }
+		},
+		"Braco1T": {
+			"Braco1T": { "name": "Menino/Braco1T", "x": 206.5, "y": -220.5, "width": 51, "height": 67 }
+		},
+		"Braco2T": {
+			"Braco2T": { "name": "Menino/Braco2T", "x": 264, "y": -238, "width": 88, "height": 48 }
+		},
+		"MaoT": {
+			"MaoT": { "name": "Menino/MaoT", "x": 287, "y": -203, "width": 62, "height": 72 }
+		},
+		"Tronco": {
+			"Tronco": { "name": "Menino/Tronco", "x": 172, "y": -239, "width": 78, "height": 144 }
+		},
+		"Pescoco": {
+			"Pescoco": { "name": "Menino/Pescoco", "x": 161, "y": -167.5, "width": 44, "height": 69 }
+		},
+		"Cabeça": {
+			"Cabeça": { "name": "Menino/Cabeça", "x": 177, "y": -121.5, "width": 108, "height": 133 }
+		},
+		"PeF": {
+			"PeF": { "name": "Menino/PeF", "x": 126, "y": -438, "width": 50, "height": 44 }
+		},
+		"Perna2F": {
+			"Perna2F": { "name": "Menino/Perna2F", "x": 136, "y": -386.5, "width": 52, "height": 103 }
+		},
+		"Perna1F": {
+			"Perna1F": { "name": "Menino/Perna1F", "x": 156, "y": -316.5, "width": 54, "height": 127 }
+		},
+		"MaoF": {
+			"MaoF": { "name": "Menino/MaoF", "x": 74.0000000000001, "y": -315, "width": 78, "height": 80 }
+		},
+		"Braco2F": {
+			"Braco2F": { "name": "Menino/Braco2F", "x": 100, "y": -265, "width": 52, "height": 60 }
+		},
+		"Braco1F": {
+			"Braco1F": { "name": "Menino/Braco1F", "x": 128.5, "y": -220, "width": 53, "height": 66 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

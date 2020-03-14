@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Asas T", "bone": "root", "attachment": "Asa Ab F copy" },
+	{ "name": "Crista", "bone": "root", "attachment": "Crista" },
+	{ "name": "Pe T", "bone": "root", "attachment": "Pe T" },
+	{ "name": "Perna T", "bone": "root", "attachment": "Perna T" },
+	{ "name": "Coxa T", "bone": "root", "attachment": "Coxa T" },
+	{ "name": "Corpo", "bone": "root", "attachment": "Corpo" },
+	{ "name": "Pe F", "bone": "root", "attachment": "Pe F" },
+	{ "name": "Perna F", "bone": "root", "attachment": "Perna F" },
+	{ "name": "Coxa F", "bone": "root", "attachment": "Coxa F" },
+	{ "name": "Asas F", "bone": "root", "attachment": "Asa Ab F" },
+	{ "name": "Boca Baixo", "bone": "root", "attachment": "Boca Baixo" },
+	{ "name": "Boca Cima", "bone": "root", "attachment": "Boca Cima" },
+	{ "name": "Efeito", "bone": "root", "attachment": "Efeito" }
+],
+"skins": {
+	"default": {
+	}
+	"Galinha": {
+		"Asas T": {
+			"Asa Ab F copy": { "name": "Galinha/Asa Ab F copy", "x": 261, "y": -151.5, "width": 104, "height": 131 },
+			"Asa T": { "name": "Galinha/Asa T", "x": 268, "y": -247.5, "width": 128, "height": 85 }
+		},
+		"Crista": {
+			"Crista": { "name": "Galinha/Crista", "x": 203, "y": -161.5, "width": 96, "height": 91 }
+		},
+		"Pe T": {
+			"Pe T": { "name": "Galinha/Pe T", "x": 224, "y": -332, "width": 74, "height": 26 }
+		},
+		"Perna T": {
+			"Perna T": { "name": "Galinha/Perna T", "x": 247, "y": -303.5, "width": 52, "height": 53 }
+		},
+		"Coxa T": {
+			"Coxa T": { "name": "Galinha/Coxa T", "x": 243.5, "y": -277, "width": 89, "height": 88 }
+		},
+		"Corpo": {
+			"Corpo": { "name": "Galinha/Corpo", "x": 213, "y": -231.5, "width": 290, "height": 231 }
+		},
+		"Pe F": {
+			"Pe F": { "name": "Galinha/Pe F", "x": 253.5, "y": -350, "width": 85, "height": 48 }
+		},
+		"Perna F": {
+			"Perna F": { "name": "Galinha/Perna F", "x": 277.5, "y": -316, "width": 57, "height": 58 }
+		},
+		"Coxa F": {
+			"Coxa F": { "name": "Galinha/Coxa F", "x": 271.5, "y": -282, "width": 89, "height": 92 }
+		},
+		"Asas F": {
+			"Asa Ab F": { "name": "Galinha/Asa Ab F", "x": 301.5, "y": -173, "width": 175, "height": 150 },
+			"Asa F": { "name": "Galinha/Asa F", "x": 278, "y": -262.5, "width": 128, "height": 83 }
+		},
+		"Boca Baixo": {
+			"Boca Baixo": { "name": "Galinha/Boca Baixo", "x": 188.5, "y": -196, "width": 49, "height": 48 }
+		},
+		"Boca Cima": {
+			"Boca Cima": { "name": "Galinha/Boca Cima", "x": 193.5, "y": -182.5, "width": 71, "height": 65 }
+		},
+		"Efeito": {
+			"Efeito": { "name": "Galinha/Efeito", "x": 93, "y": -189.5, "width": 120, "height": 363 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

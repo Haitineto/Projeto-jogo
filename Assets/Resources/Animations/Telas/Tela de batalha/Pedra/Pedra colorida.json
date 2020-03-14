@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" },
+	{ "name": "Elemento", "bone": "root" },
+	{ "name": "Effect", "bone": "root", "attachment": "Effect" }
+],
+"skins": {
+	"default": {
+		"Layer 2": {
+			"Layer 2": { "x": 538.5, "y": -107, "width": 1079, "height": 216 }
+		},
+		"Elemento": {
+			"Ar": { "x": 539.5, "y": -109, "width": 1077, "height": 212 },
+			"Terra": { "x": 539.5, "y": -109, "width": 1077, "height": 212 },
+			"Fogo": { "x": 539.5, "y": -109, "width": 1077, "height": 212 },
+			"Agua": { "x": 539.5, "y": -109, "width": 1077, "height": 212 },
+			"Neutro": { "x": 539.5, "y": -109.5, "width": 1077, "height": 211 }
+		},
+		"Effect": {
+			"Effect": { "x": 525.5, "y": -107, "width": 367, "height": 216 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

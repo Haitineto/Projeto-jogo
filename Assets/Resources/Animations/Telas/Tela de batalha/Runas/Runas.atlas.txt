@@ -1,0 +1,153 @@
+
+Runas.png
+size: 1402,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Efeito
+  rotate: true
+  xy: 1290, 172
+  size: 116, 110
+  orig: 121, 114
+  offset: 3, 2
+  index: -1
+Runa de Agua/Runa de agua
+  rotate: false
+  xy: 145, 10
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 1
+  index: -1
+Runa de Agua/Runa de agua Buffada
+  rotate: false
+  xy: 309, 139
+  size: 149, 149
+  orig: 158, 158
+  offset: 5, 5
+  index: -1
+Runa de Agua/Runa de agua Selecionada
+  rotate: false
+  xy: 270, 10
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 1
+  index: -1
+Runa de Agua/Runa de agua Selecionada Buffada
+  rotate: false
+  xy: 2, 135
+  size: 152, 153
+  orig: 158, 158
+  offset: 3, 3
+  index: -1
+Runa de Ar/Runa de ar
+  rotate: true
+  xy: 1059, 45
+  size: 120, 118
+  orig: 122, 120
+  offset: 1, 1
+  index: -1
+Runa de Ar/Runa de ar Buffada
+  rotate: true
+  xy: 907, 146
+  size: 142, 139
+  orig: 146, 143
+  offset: 2, 2
+  index: -1
+Runa de Ar/Runa de ar Buffada Selecionada copy
+  rotate: false
+  xy: 460, 141
+  size: 150, 147
+  orig: 154, 153
+  offset: 2, 3
+  index: -1
+Runa de Ar/Runa de ar Selecionada
+  rotate: true
+  xy: 1170, 168
+  size: 120, 118
+  orig: 122, 120
+  offset: 1, 1
+  index: -1
+Runa de Luz/Runa de luz
+  rotate: false
+  xy: 937, 23
+  size: 120, 121
+  orig: 122, 123
+  offset: 1, 1
+  index: -1
+Runa de Luz/Runa de luz Buffado
+  rotate: true
+  xy: 763, 142
+  size: 146, 142
+  orig: 154, 153
+  offset: 4, 6
+  index: -1
+Runa de Luz/Runa de luz Buffado Selecionado
+  rotate: false
+  xy: 612, 142
+  size: 149, 146
+  orig: 154, 153
+  offset: 2, 4
+  index: -1
+Runa de Luz/Runa de luz Selecionado copy
+  rotate: false
+  xy: 1048, 167
+  size: 120, 121
+  orig: 122, 123
+  offset: 1, 1
+  index: -1
+Runa de terra/Runa de terra
+  rotate: false
+  xy: 1179, 43
+  size: 106, 123
+  orig: 108, 125
+  offset: 1, 1
+  index: -1
+Runa de terra/Runa de terra buffada
+  rotate: true
+  xy: 2, 7
+  size: 126, 141
+  orig: 132, 148
+  offset: 3, 4
+  index: -1
+Runa de terra/Runa de terra buffada selecionada
+  rotate: true
+  xy: 659, 2
+  size: 138, 153
+  orig: 142, 157
+  offset: 2, 2
+  index: -1
+Runa de terra/Runa de terra selecionada
+  rotate: false
+  xy: 1287, 43
+  size: 106, 123
+  orig: 108, 125
+  offset: 1, 1
+  index: -1
+Runas de fogo/Runa de fogo
+  rotate: false
+  xy: 395, 15
+  size: 121, 122
+  orig: 123, 125
+  offset: 1, 2
+  index: -1
+Runas de fogo/Runa de fogo Buffada
+  rotate: true
+  xy: 518, 2
+  size: 137, 139
+  orig: 141, 143
+  offset: 2, 2
+  index: -1
+Runas de fogo/Runa de fogo Buffada Selecionada
+  rotate: false
+  xy: 156, 135
+  size: 151, 153
+  orig: 155, 157
+  offset: 2, 2
+  index: -1
+Runas de fogo/Runa de fogo Selecionada
+  rotate: false
+  xy: 814, 18
+  size: 121, 122
+  orig: 123, 125
+  offset: 1, 2
+  index: -1
