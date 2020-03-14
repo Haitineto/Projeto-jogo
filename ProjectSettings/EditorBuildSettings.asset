@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialScene.unity
+    guid: f386b8d73880d984285a32f959db06b3
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 0a6660c1063caee49bf0bd9afa3c02c9
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AttributesScene.unity
+    guid: c74c935a35ae77b419a3a4e07c6491c8
+  - enabled: 1
+    path: Assets/Scenes/BossCardScene.unity
+    guid: 6cf339e1f3e1fd444a2903547f4d0966
+  - enabled: 1
+    path: Assets/Scenes/EquipScene.unity
+    guid: 7c4eeba1992c7c241a1b700d9cb0e785
+  m_configObjects: {}
